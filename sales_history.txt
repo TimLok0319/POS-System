@@ -1,0 +1,4 @@
+id,name,price,quantity
+NK-2023122207555815/['NK0007|NIKE IMPACT 4 x1', 'NK0008|NIKE JA ONE x1']/RM875.8/Cash/customer_name: Shawn, customer_contact: 011 61557698
+NK-2023122208048610/['NK0006|NIKE COURT VISION x1', 'NK0008|NIKE JA ONE x1']/RM610.6/E-Wallet/customer_name: Wei Qi, customer_contact: 012 580 1109
+NK-2023122523253854/['NK0019|NIKE HYPERDUNK x1']/RM571.35/CreditDebit Card/customer_name: Robert, customer_contact: 0124356789
